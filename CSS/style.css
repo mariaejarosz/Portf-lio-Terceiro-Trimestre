@@ -1,0 +1,35 @@
+body { 
+	background-color: darkgrey;
+	
+}
+
+h1 { 
+	color:darkcyan;
+	font-size: 42px;
+	text-align: center; 
+	font-style: oblique;
+	font-family: serif 
+}
+
+p.round {
+  border: 1px solid;
+  border-radius: 12px;
+  padding: 5px;
+}
+
+fieldset.round1 {
+  border: 1px solid;
+  border-radius: 12px;
+  padding: 5px;
+}
+
+p {
+	font-size: 18px; 
+	font-family: "Georgia", serif;
+	text-align: center
+}
+
+.produto {
+	font-size: 24px;
+	color: darkcyan
+}
